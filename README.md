@@ -1,12 +1,10 @@
-# CalorieExpenditureAnalysis
-Participated in a Kaggle Playground Series that uses synthetic data to apply different aspects of machine learning and data science. 
+# Calories Burned Prediction - Kaggle Competition
 
-# Calories Burned Prediction — Kaggle Competition
 ## Overview
-
-Competition: Kaggle Calories Burned Prediction (www.kaggle.com/competitions/playground-series-s5e5/overview/)
-Goal: Predict how many calories were burned during a workout.
-Evaluation metric: RMSLE, which penalizes underestimates more than overestimates and is more sensitive to small prediction errors on lower calorie values.
+Participated in a Kaggle Playground Series that uses synthetic data to apply different aspects of machine learning and data science.  
+Competition: Kaggle Calories Burned Prediction (www.kaggle.com/competitions/playground-series-s5e5/overview/)  
+Goal: Predict how many calories were burned during a workout.  
+Evaluation metric: RMSLE, which penalizes underestimates more than overestimates and is more sensitive to small prediction errors on lower calorie values.  
 Features:
 - Gender (categorical)
 - Age, Height, Weight, Duration, Heart_Rate, Body_Temp (numerical)
@@ -51,11 +49,6 @@ Features:
 - Generated directly in Kaggle notebook and submitted from output
 
 ## Citation 
-@misc{playground-series-s5e5,
-    author = {Walter Reade and Elizabeth Park},
-    title = {Predict Calorie Expenditure},
-    year = {2025},
-    howpublished = {\url{https://kaggle.com/competitions/playground-series-s5e5}},
-    note = {Kaggle}
-}
+Reade, W., & Park, E. (2025). *Predict Calorie Expenditure*. Kaggle. https://kaggle.com/competitions/playground-series-s5e5
+
 
